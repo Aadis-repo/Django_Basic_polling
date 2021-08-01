@@ -1,0 +1,10 @@
+* {
+  color: rgb(8, 148, 241);
+  font-size: 1.2rem;
+}
+li a {
+  color: rgb(3, 162, 173);
+}
+body {
+  background: white url("images/wall.png") no-repeat;
+}
